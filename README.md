@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @farhansyedAli
-- 👀 I’m interested in python programming and application development.
+- 👀 I’m interested in programming and application development.
+- 😏 I have learned Python, C++ programming languages and am interested in learning more.
 - 🌱 I’m currently learning Data Science.
-- 📫 How to reach me syedfarhanali2005@gmail.com,
+- 📫 How to reach me: syedfarhanali2005@gmail.com,
 - linked in: https://www.linkedin.com/in/syed-farhan-ali-shah-ab2309287/
 
 <!---
