@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farhansyedAli
+- 👋 Hi, I’m Syed Farhan ALi
 - 👀 I’m interested in programming and application development.
 - 😏 I have learned Python, C++ programming languages and am interested in learning more.
 - 🌱 I’m currently learning Data Science.
